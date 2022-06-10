@@ -13,4 +13,4 @@
 
 Este proyecto cuenta con un log de búsquedas realizadas con los siguientes atributos: Servicio consumido, hora de ejecución y tiempo de respuesta.
 
-Esta información se guarda en una base de datos H2 y para visualizarla es necesario dirigirse al servicio de listar logs en la ruta de documentación swagger definida anteriormente. De esta forma podría revisar las búsquedas realizadas en la sesión de ejecución, ya que como es BD en memoria, los logs no se guardan fuera de la sesión actual.
+Esta información se guarda en una base de datos H2 y para visualizarla es necesario dirigirse al servicio de listar logs en la ruta de documentación swagger definida anteriormente. De esta forma podrá revisar las búsquedas realizadas en la sesión de ejecución, ya que como es BD en memoria, los logs no se guardan fuera de la sesión actual.
