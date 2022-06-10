@@ -5,7 +5,7 @@
 * Para probar la solución es necesario clonar el proyecto y abrirlo en el IDE de su preferencia.
 * Este proyecto usa maven y Spring boot así que las dependencias pueden encontrarse en el pom.xml.
 * Puede cambiar la url base del api desde el archivo application.properties del proyecto.
-* Este proyecto usa base de datos H2 en memoria, así que puede cambiar su configuración (usuario, contraseña) desde el application.properties.
+* Este proyecto usa una base de datos H2 en memoria, así que puede cambiar su configuración (usuario, contraseña) desde el application.properties.
 * La solución se ejecuta en el puerto 8080, por lo que es necesario dirigirse a la ruta "http://localhost:8080/swagger-ui.html" para poder visualizar la documentación de los servicios realizados y poder probarlos.
 
 
